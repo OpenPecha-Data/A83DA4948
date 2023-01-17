@@ -1,0 +1,26 @@
+id: A83DA4948
+title: Akṣayamatinirdeśa
+type: translation
+pechas:
+- I6DE48CCE
+- I99BF3A14
+- I58F547F8
+- I40174CC0
+- IB6BB07E6
+- I5EBF827F
+source_metadata:
+  languages:
+  - zh
+  - sa
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-17 14:07:58.724151
+  last_modified_at: 2023-01-17 14:07:58.724154
+alignment_to_base:
+  I6DE48CCE/7817: E4B1
+  I99BF3A14/CA46: E4B1
+  I58F547F8/DD1D: E4B1
+  I40174CC0/430D: E4B1
+  IB6BB07E6/BB44: E4B1
+  I5EBF827F/02A6: E4B1
